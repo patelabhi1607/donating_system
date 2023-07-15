@@ -1,0 +1,4 @@
+Django==3.2.5
+djangorestframework==3.12.4
+phonenumber_field==5.2.0
+stripe==2.60.0
